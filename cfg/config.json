@@ -1,6 +1,10 @@
 {
   "lastHash": "ABC",
   "public": {
+    "repository": {
+      "remote": "git@git.coding.net:henryhuang/huangyijie.git",
+      "branch": "coding-pages"
+    },
     "root": "./public",
     "address": "127.0.0.1",
     "port": 3000
