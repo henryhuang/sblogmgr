@@ -9,6 +9,8 @@
   "author": "henryhuang <h1886@outlook.com>",
   "license": "ISC",
   "dependencies": {
-    "node-static": "^0.7.9"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
   }
 }
